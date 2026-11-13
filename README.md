@@ -1,4 +1,6 @@
 # 🚀 Comal
+![Pascal](https://img.shields.io/badge/Pascal-0366D6?style=flat&logo=delphi&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-B01302?style=flat&logo=delphi&logoColor=white)
 
 *Command Lite(comal) for Win32 version 2.0*
 *Copyright (c) 2021-2026 asop*
